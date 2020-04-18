@@ -1,4 +1,2 @@
 SrNum,MovieHallRegistration,Name,Area
 1,1627,Cinepolis,Thane
-2,6521,INOX,Mulund
-3,4251,PVR,Whitefield,
