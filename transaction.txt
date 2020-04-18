@@ -1,2 +1,4 @@
 SrNum,MovieHallRegistration,Name,Area
 1,1627,Cinepolis,Thane
+2,1728,PVR,Whitefield
+3,1927,IMAX,Powai
